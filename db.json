@@ -1,0 +1,203 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Tian Guan Ci Fu",
+      "author": "Mong Xiang Tong Xiu",
+      "imageBackground": "https://i.ibb.co/VJCTK1C/image.png",
+      "chapter": "244 chap",
+      "status": "Full",
+      "category": "BL",
+      "description": [
+        "Vì người, đánh đâu thắng đó, không gì cản nổi.",
+            "Giữa tam giới thần phật khắp nơi này, thế mà lại có một trò cười!",
+            " Ái chà, nhân viên công vụ lượm đồng nát trên thiên giới có gian tình với đại quý nhân của quỷ giới kìa!"
+      ]
+    },
+
+    {
+      "id": 2,
+      "name": "Sa Ye",
+      "author": "Wu Zhe",
+      "imageBackground": "https://i.ibb.co/hyTVzHC/image.jpg",
+      "chapter": "145 chap",
+      "status": "Full",
+      "category": "BL",
+      "description": [
+        "Bắt đầu câu chuyện khi hai nhân vật chính năm 17 tuổi, cả hai đều ưa nhìn lại có đầu óc, giỏi âm nhạc lẫn thể thao + tài lẻ vô số, nhưng có lẽ cũng vì sở hữu quá nhiều ưu điểm nên hoàn cảnh của hai cậu cũng thảm mỗi người một cách khác nhau.",
+            "Một bạn là đứa con trái ý với cả nhà suốt mười mấy năm trời, cuối cùng biết được sự thật rằng mình là con nuôi, vậy là từ đó cậu trai thành thị nhà khá giả, dân top đầu trường chuyên đã phải bị đưa về một thành phố nhỏ xập xệ, làm học sinh ở một ngôi trường tầm thường, ở chung với những “người ruột thịt” ngập ngụa trong bế tắc và vòng xoáy gạo tiền.",
+            "Một bạn mới vừa 17 tuổi đầu đã là người tháo vát quán xuyết hết việc nhà, bố đã mất (trước đó ông này chuyên say xỉn, đánh đập vợ con), phải gánh vác chuyện + nuôi dưỡng một cô em gái bị tổn thương tinh thần, đèo bòng nốt một bà mẹ tính cách thất thường muốn níu kéo tuổi thanh xuân, không lo làm việc, chỉ lo hẹn hò hết trai này đến trai khác."
+      ]
+     
+    },
+
+    {
+      "id": 3,
+      "name": "Jie Yao",
+      "author": "Wu Zhe",
+      "imageBackground": "https://i.ibb.co/bmZVNDT/image.png",
+      "chapter": "99 chap",
+      "status": "Full",
+      "category": "BL",
+      "description": [
+        "Đại Thiếu gia Trình Khác một ngày nọ bị đá ra khỏi nhà. Vì một tờ 100 đồng tự mình ném vào thùng rác mà đánh nhau với người ta, liền nhận được một tấm danh thiếp làm từ giấy vỏ thuốc lá từ người kia."
+      ]
+     
+    },
+    {
+      "id": 4,
+      "name": "Husky Va Su Ton Cua Han",
+      "author": "Nhuc Bao Bat Cat Nhuc",
+      "imageBackground": "https://i.ibb.co/KqzxZBT/huskyvasuton.jpg",
+      "chapter": "321 chap",
+      "status": "Full",
+      "category": "BL",
+      "description": [
+        "Bởi vì nhìn ngang nhìn dọc sư rôn hắn đều y hệt mèo, mà hắn lại như con chó ngốc rung đùi đắc ý. Chó với mèo vốn đã khác biệt giống loài, chó ngốc vốn cũng chẳng có ý giao hảo cùng con mèo kia. Hắn vốn cảm thấy ấy à, chó nên ở cùng với chó, ví dụ như sư huynh của hắn, xinh đẹp dịu dàng, như một con hồ ly trung khuyển đáng yêu, hai người họ ở bên nhau nhất định rất xứng đôi."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ma Dao To Su",
+      "author": "Mong Xiang Tong Xiu",
+      "imageBackground": "https://i.ibb.co/XjyDW2c/image.jpg",
+      "chapter": "129 chap",
+      "status": "Full",
+      "category": "BL",
+      "description": [
+        "Đời trước, Nguỵ Vô Tiện bị mọi người khinh thường, rẻ rúng, thanh danh của hắn thối nát, ai cũng phỉ báng. Hắn bị chính sư đệ của mình, người thân duy nhất của hắn đưa người giết chết. Hắn tung hoành trên giang hồ, là ma đạo tổ sư khét tiếng, khiến cho giới ma đạo dậy sóng một lần, nào ngờ giờ đây lại bị chết phanh thây. Lại càng bất ngờ hơn nữa, hắn có gan chết đi sống lại, nhưng lại trở thành một kẻ não tàn!"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Soi Di Thanh Doi",
+      "author": "Wu Zhe",
+      "imageBackground": "https://i.ibb.co/ZzfvPMq/soidithanhdoi.jpg",
+      "chapter": "107 chap",
+      "status": "Full",
+      "category": "BL",
+      "description": [
+        "Câu chuyện này chính là như vậy. Hàng ngày Biên Nam và Khưu Dịch đều xảy ra xung đột, nhưng ai ngờ đến cuối cùng lại yêu nhau sâu đậm đến mức không thể tách rời. Cha ông ta nói không sai, yêu nhau lắm cắn nhau đau. Hàng ngày họ xảy ra tranh cãi, nhưng đến khi gặp chuyện đều quan tâm, bảo vệ lẫn nhau. Đây mới chính là thức tình cảm chân thành xuất hiện phát từ hai người."
+      ]
+     
+    },
+    {
+      "id": 7,
+      "name": "Nan Hong",
+      "author": "Zhu Yi",
+      "imageBackground": "https://i.ibb.co/jw361Sx/image.jpg",
+      "chapter": "85 chap",
+      "status": "Full",
+      "category": "Novel",
+      "description": [
+        "Hai người nước giếng không phạm nước sông, như hai người xa lạ sống dưới cùng một mái hiên.",
+        "Cuộc sống bình yên dừng lại ở một buổi sáng."
+      ]
+     
+    },
+    {
+      "id": 8,
+      "name": "Vung Trom Khong The Giau",
+      "author": "Zhu Yi",
+      "imageBackground": "https://i.ibb.co/xCSHPPK/vungtrom.jpg",
+      "chapter": "90 chap",
+      "status": "Full",
+      "category": "Novel",
+      "description": [
+        "Năm đó, trong lòng Tang Trĩ vụng trộm chứa một người, thích phải bạn của anh trai Đoạn Gia Hứa, cái anh đó có đôi mắt hoa đào rất đẹp, hờ hững gọi cô ấy “này nhóc”, ngỡ ngàng của lần gặp đầu luôn khiến Tang Trĩ nhịn không nổi muốn lại gần, nhưng cách biệt 7 tuổi như thể lại là danh giới khiến họ không cách nào vượt qua, chẳng biết từ khi nào, thầm mến ngây ngô chôn giấu dưới đáy lòng dần dần nảy mầm, từ từ, cũng lan vào trong lòng anh ấy…"
+      ]
+     
+    },
+
+    {
+      "id": 9,
+      "name": "Hoa Tu Dan",
+      "author": "Duong That Cong Tu",
+      "imageBackground": "https://i.ibb.co/MSNBR6v/hoatudan.jpg",
+      "chapter": "58 chap",
+      "status": "Full",
+      "category": "Novel",
+      "description": [
+        "Khi nàng gảy lên điệu Hoa Tư, có thể khiến người sống người chết đều trắng xương và bước vào mộng cảnh và hồi ức. Trong những khúc nhạc được tạo thành từ ma thuật chính là xót xa và đau khổ của người đời."
+      ]
+     
+    },
+    {
+      "id": 10,
+      "name": "Dong Cung",
+      "author": "Phi Nga Tu Ton",
+      "imageBackground": "https://i.ibb.co/sCQXjps/dongcung.jpg",
+      "chapter": "43 chap",
+      "status": "Full",
+      "category": "Novel",
+      "description": [
+        "Có con cáo nhỏ ngồi trên cồn cát, ngồi trên cồn cát, ngắm nhìn ánh trăng.",
+        "Ô thì ra không phải nó đang ngắm trăng, mà đang đợi cô nương chăn cừu trở về…..",
+        "Có con cáo nhỏ ngồi trên cồn cát, ngồi trên cồn cát, sưởi nắng.",
+        "Ô thì ra không phải nó đang sưởi nắng, mà đang đợi cô nương cưỡi ngựa đi qua…..",
+        "Hóa ra cứ mãi đợi mãi chờ, con cáo ấy lại chẳng thể đợi được người mà nó muốn"
+      ]
+     
+    },
+    {
+      "id": 11,
+      "name": "Tung Co Nguoi Yeu Toi Nhu Sinh Menh",
+      "author": "Thu Nghi",
+      "imageBackground": "https://i.ibb.co/V3CKz0R/tungconguoiyeutoinhusinhmenh.jpg",
+      "chapter": "12 chap",
+      "status": "Full",
+      "category": "Novel",
+      "description": [
+        "Thời còn trẻ, chúng ta thường không hiểu thế nào là tình yêu. Lúc mới bước vào đời, tôi từng nghĩ tình yêu có thể vượt qua tất cả. Khi đó tôi không hề biết trên đời này còn tồn tại một sức mạnh gọi là số phận, chúng ta chỉ có thể chấp nhận mà không thể thay đổi. Lúc ở trong phòng tắm của trường học và cất cao tiếng hát “I love you more than I can say”, tôi không hề ngờ rằng, câu chuyện đó sẽ có một ngày xảy ra với tôi. Tôi gặp anh lần đầu tiên là ở một tình huống đẫm máu tại thành phố Odessa, đất nước Ukraine..."
+      ]
+     
+    },
+    {
+      "id": 12,
+      "name": "Phe Hau Tuong Quan",
+      "author": "Nhat Do Quan Hoa",
+      "imageBackground": "https://i.ibb.co/MCDMW9L/phehautuongquan.jpg",
+      "chapter": "13 chap",
+      "status": "Full",
+      "category": "Novel",
+      "description": [
+        "Một con sói con, một hoàng hậu bị phế, một thế thân thất bại nhất. Tình yêu của mỗi người trên thế gian này đều là một chi phiếu kỳ hạn, trong kỳ hạn này, nó có thể giá trị đến trăm vạn nghìn vạn thậm chí là mười nghìn vạn, nhưng hễ qua kỳ hạn này, chẳng qua chỉ là một tờ giấy bỏ đi.",
+        "Gởi lời cho người đa tình, chớ diễn trò đa tình. Gởi lời cho người đa tình, hoa nở nên quý trọng. Lần thứ hai ghi rõ quyển này thuộc loại ngược, người đọc xin cẩn thận, người thích ngược đào hố sưu tầm, chờ anh nào đó lấp đất cho xong."
+      ]
+     
+    }
+  ],
+
+  "tianguancifu": [
+    {
+      "name": "Tian Guan Ci Fu",
+      "imageBackground": "https://i.ibb.co/VJCTK1C/image.png",
+      "author":"Mong Xiang Tong Xiu",
+      "type": "Huyền Huyễn, Linh Dị, Đam Mỹ",
+      "status": "Full",
+      "description": [
+        "Thể loại: Huyền huyễn tiên hiệp tu chân, linh dị thần quái, tình hữu độc chung (1×1), quỷ vương si tình công x tiên phong đạo cốt lượm đồng nát thụ, HE",
+        "Độ dài: 244 chương + phiên ngoại",
+        "Vì người, đánh đâu thắng đó, không gì cản nổi."
+      ],
+      "chapter": [
+        "Chap 1: Thien Quan Tu Phuc",
+        "Chap 2: Huyet Vu Tham Hoa",
+        "Chap 3: Tien Nhan Dong Nat",
+        "Chap 4: Tien Nhan Dong Nat",
+        "Chap 5: Ba Ke Do Hoi",
+        "Chap 6: Quy Don Dau",
+        "Chap 7: Quy Don Dau",
+        "Chap 8: Quy Don Dau",
+        "Chap 9: Mieu Co An Trong Nui",
+        "Chap 10: Mieu Co An Trong Nui",
+        "Chap 11: Mieu Co An Trong Nui",
+        "Chap 12: Quy Ao Do",
+        "Chap 13: Ao Do Hon La Phong",
+        "Chap 14: Ao Do Hon La Phong",
+        "Chap 15: Ao Do Hon La Phong",
+        "Chap 16: Ao Do Hon La Phong"
+      ]
+    }
+  ]
+}
