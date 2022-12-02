@@ -27,7 +27,7 @@ server.use((req, res, next) => {
 server.use("/api", router);
 
 //Start server
-const POST = process.env.PORT || 3000;
-server.listen(POST, () => {
-    console.log("JSON Server is running");
+const PORT = process.env.PORT || 3000;
+server.listen(PORT, () => {
+    console.log("JSON Server is running port",PORT);
 });
